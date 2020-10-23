@@ -1,0 +1,149 @@
+[
+{
+    "_id" : 1,
+    "user" : "@IbaiLlanos",
+    "contenido" : "Comienzo una nueva etapa. https://twitter.com/i/status/1225056519571591169",
+    "likes" : [
+        "@IbaiLLanos", "@EvilAFM", "@LMDShow", "@adrilik"
+    ],
+    "retweets" : [
+        "@EvilAFM", "@adrilik"
+    ],
+    "fecha" : "06/02/2020",
+    "fijado" : true
+},
+{
+    "_id" : 2,
+    "user" : "@LMDShow",
+    "contenido" : "VIDEAZO, así se anuncian las cosas, mucha suerte tío",
+    "likes" : [
+        "@IbaiLLanos"
+    ],
+    "fecha" :"05/02/2020",
+    "respuesta_a" : 1,
+    "fijado" : false
+},
+{
+    "_id" :3,
+    "user" : 2,
+    "contenido" :"Miquel como head chef para todos los equipos de G2 por favor.",
+    "likes" : [
+        "@IbaiLlanos"
+    ],
+    "fecha" : "05/02/2020",
+    "respuesta_a" : 1,
+    "fijado" : false
+},
+{
+    "_id" : 4,
+    "user" : 1,
+    "contenido" : "gracias",
+    "likes" :[
+        "@LMDShow"
+    ],
+    "retweets" : [
+        "@LMDShow"
+    ],
+    "fecha" : "05/02/2020",
+    "respuesta_a" : 3,
+    "fijado" : false
+},
+{
+    "_id" : 5,
+    "user" : "@aguszeballos17",
+    "contenido" : "ya dispoible mi album 'Asimetria' ya saben vayan a darle apoyo ahi <3 #Asimetria",
+    "likes" : [
+        "@Harrydpccrew"
+    ],
+    "fecha" : "28/05/2020",
+    "fijado" : true,
+    "Hasthags" : [
+        "#Asimetria"
+    ]
+},
+{
+    "_id" : 6,
+    "user" : "@lolesports",
+    "contenido" : "Take a look at when @EvilAFM killed Faker! https://www.youtube.com/watch?v=PGqbRhkLJi4",
+    "likes" : [
+        1, 2
+    ],
+    "retweets" : [
+        2
+    ],
+    "fecha" : "18/10/2020",
+    "fijado" : false
+},
+{
+    "_id" : 7,
+    "user" : "@subrayado",
+    "contenido" : "https://pbs.twimg.com/card_img/1319079884573069312/0D6BlPP0?format=jpg&name=small",
+    "likes" : [
+        6
+    ],
+    "fecha" : "22/10/2020",
+    "fijado" : false
+},
+{
+    "_id" : 8,
+    "user" : "@adrilik",
+    "contenido" : "Aqui os dejo el pim pam trucu trucu definitivo https://twitter.com/i/status/1043496261524094976",
+    "likes" : [
+        1, 2, 3
+    ],
+    "retweets" : [
+        3
+    ],
+    "fecha" : "22/09/2020",
+    "fijado" : false
+},
+{
+    "_id" : 9,
+    "user" : "@adrilik",
+    "contenido" : "WILLYREX: os vais a cagar | Trailer Oficial #Willyrex1",
+    "likes" : [
+        1, 2, 3, 5
+    ],
+    "retweets" : [
+        1, 3
+    ],
+    "fecha" : "21/03/2019",
+    "fijado" : true,
+    "Hashtags" : "#Willyrex1"
+},
+{
+    "_id" : 10,
+    "user" : "@adrilik",
+    "contenido" : "escena eliminada de la anterior temporada de #GameofThrones",
+    "likes" : [
+        1, 3
+    ],
+    "retweets" : [
+        1
+    ],
+    "fecha" : "15/04/2019",
+    "Hashtags" : "#GameofThrones"
+},
+{
+    "_id" : 11,
+    "user" : "@EvilAFM",
+    "contenido" : "He matado a Faker.",
+    "likes" : [
+        1, 2, 3, 8
+    ],
+    "retweets" : [
+        1
+    ],
+    "fecha" : "07/12/2018",
+    "fijado" : true
+},
+{
+    "_id" : 12,
+    "user" : "@JonyBeltran_",
+    "contenido" : "Que asco de utlima temporada carnal #GameofThrones #GoTSeasonFinale",
+    "fecha" : "19/05/2019",
+    "Hashtags" : [
+        "#GameofThrones", "#GoTSeasonFinale"
+    ]
+}
+]
